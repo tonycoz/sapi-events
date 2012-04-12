@@ -1,0 +1,11 @@
+/*.bs
+/blib/
+*~
+/Events.c
+/*.json
+/*.yml
+/Makefile
+/pm_to_blib
+/vc90.pdb
+*.obj
+/Events.def
